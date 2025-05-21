@@ -1,36 +1,95 @@
-# Hi there, I'm Shivaprasad-Gaikwad! 👋
+<h1 align="center">Hi there 👋, I'm Shivaprasad M Gaikwad</h1>
+<h3 align="center">Full-Stack Developer | Rust Explorer | AI + Web Innovator</h3>
 
-Welcome to my GitHub profile! I'm a passionate BCA student with a diverse set of skills in software development, web development, and API creation. I love solving problems and building creative solutions with code.
+<p align="center">
+  🌐 <a href="https://shivaprasadmg.netlify.app">Portfolio</a> •  
+  📫 <a href="mailto:shivaprasadmgaikwad@gmail.com">Email</a> •  
+  💼 <a href="https://www.linkedin.com/in/shivaprasadmg">LinkedIn</a>
+</p>
 
-## 🧑‍💻 About Me
-- 🎓 BCA Student at [ICCA](https://iccadvg.org/)
-- 🌱 Currently learning advanced web development and cloud computing
-- 🛠️ Always exploring new technologies and frameworks
+---
 
-## 🛠️ My Skill Set
-### Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🧠 About Me
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+I'm a passionate full-stack developer with experience in building scalable web apps, cross-platform system applications, and AI-integrated tools. I love turning ideas into user-friendly, performance-optimized digital products.
 
-### Tools and Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🔭 Currently working on **AI-powered finance apps** and **Rust-based desktop tools**
+- 🧠 Exploring **Tauri**, **LLMs**, and **product-level design**
+- 💬 Ask me about React, FastAPI, C#, or building cross-platform tools
+- 🎓 Final-year BCA student @ ICCA, Davangere (Graduating 2025)
+- ⚡ Fun fact: I love converting system-level ideas into smooth UIs with charts and themes
 
-## 📂 Projects
-### Project 1: [CachePurger](https://github.com/Dev-ShivaPrasad/CachePurger)
-Light-Weight Python Script to Clear all Cache, Temp, Prefetch and flush-dns to clear cache.
+---
 
-### [Explore more of my projects on my GitHub repository.](https://github.com/Dev-ShivaPrasad?tab=repositories)
+## 🛠 Tech Stack
 
-## 📫 Get in Touch
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shivaprasad-gaikwad/)
-- Email: [Mail](mailto:ShivaPrasadGaikwad11@gmail.com)
-<!-- - Portfolio: [Your Portfolio Website](https://yourportfolio.com) -->
+### 💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
+
+### 🧰 Frameworks & Tools
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/-Framer--Motion-black?style=flat&logo=framer)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi)
+![Entity Framework](https://img.shields.io/badge/-EntityFramework-black?style=flat)
+![MSSQL](https://img.shields.io/badge/-MSSQL-black?style=flat&logo=microsoft-sql-server)
+![Tauri](https://img.shields.io/badge/-Tauri-black?style=flat)
+
+### 📦 Dev Tools
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+
+---
+
+## 🧪 Projects
+
+### 🧠 FinTrack – AI-powered Finance Management App
+Full-stack finance dashboard that helps users manage income, expenses, debts, and investments with:
+- 📊 Visual charts (Bar, Pie, Radar, Radial-Bar)
+- 🧠 AI Bot built with FastAPI + GPT4All (Phi-2 model) for financial suggestions
+- 🌙 Dark/light theme switcher & JWT auth
+
+**Tech Stack:** React, TypeScript, TailwindCSS, C# Web API, MSSQL, FastAPI, GPT4All
+
+---
+
+### ⚙️ FormatFlipper – Cross-platform File Converter
+A fast, minimal file conversion app with Rust & Tauri backend, React UI, and bulk processing.
+
+**Tech Stack:** Rust, Tauri 2.0, Python, React
+
+---
+
+### 🌐 Developer Portfolio
+Personal website with animations, live Supabase backend, and responsive design using:
+- React.js, TypeScript, TailwindCSS, TanStack Query, Framer Motion
+
+🔗 [Visit my portfolio →](https://shivaprasadmg.netlify.app)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 1st place – **Technova 2025** (Poster, Blind Coding, Quiz)
+- 🥈 2nd place – **Technotsava** – Python-based image converter
+- 🥈 2nd place – **Sukalpa Hackathon** – Book recommendation app (FastAPI + Vanilla JS)
+- 🥉 3rd place – **Technotsav** (Poster: Importance of Education)
+- 🥉 3rd place – **Atharva 2024** – C Code Debugging
+
+---
+
+## 📫 Let's Connect!
+
+I'm open to internships, freelance, or full-time dev roles. Let's build cool things together 🚀  
+Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/shivaprasadmg) or [Email](mailto:shivaprasadmgaikwad@gmail.com).
+
+---
+
+![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasadmg&show_icons=true&theme=radical)
+
