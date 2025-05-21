@@ -1,17 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Shivaprasad M Gaikwad</h1>
-<h3 align="center">Full-Stack Developer | Rust Explorer | AI + Web Innovator</h3>
+<h3 align="center">Full-Stack Developer | Exploring Rust | Passionate about AI, Web & system apps</h3>
+
+
 
 <p align="center">
   🌐 <a href="https://shivaprasadmg.netlify.app">Portfolio</a> •  
-  📫 <a href="mailto:shivaprasadmgaikwad@gmail.com">Email</a> •  
-  💼 <a href="https://www.linkedin.com/in/shivaprasadmg">LinkedIn</a>
+  📫 <a href="mailto:shivaprasadgaikwad11@gmail.com">Email</a> •  
+  💼 <a href="https://www.linkedin.com/in/shivaprasad-gaikwad/">LinkedIn</a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate full-stack developer with experience in building scalable web apps, cross-platform system applications, and AI-integrated tools. I love turning ideas into user-friendly, performance-optimized digital products.
+I'm a passionate full-stack developer with experience in building scalable web apps, cross-platform system applications, and AI-integrated tools. I love turning ideas into simple, user-friendly & performance-optimised digital products.
 
 - 🔭 Currently working on **AI-powered finance apps** and **Rust-based desktop tools**
 - 🧠 Exploring **Tauri**, **LLMs**, and **product-level design**
@@ -87,9 +89,9 @@ Personal website with animations, live Supabase backend, and responsive design u
 ## 📫 Let's Connect!
 
 I'm open to internships, freelance, or full-time dev roles. Let's build cool things together 🚀  
-Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/shivaprasadmg) or [Email](mailto:shivaprasadmgaikwad@gmail.com).
+Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/shivaprasad-gaikwad/) or [Email](mailto:ShivaPrasadGaikwad11@gmail.com).
 
 ---
 
-![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaprasadmg&show_icons=true&theme=radical)
+![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Shivaprasad&show_icons=true&theme=radical)
 
